@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **mkkaif002@gmail.com**
 
-- 📄 Know about my experiences [chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://my-portfolio-red-nine-53.vercel.app/static/media/Mohmmad%20kaif%20Updated.93d1069984ff3aab9c1d.pdf](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://my-portfolio-red-nine-53.vercel.app/static/media/Mohmmad%20kaif%20Updated.93d1069984ff3aab9c1d.pdf)
+- 📄 Know about my experiences [https://my-portfolio-red-nine-53.vercel.app/index.html](https://my-portfolio-red-nine-53.vercel.app/index.html)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
